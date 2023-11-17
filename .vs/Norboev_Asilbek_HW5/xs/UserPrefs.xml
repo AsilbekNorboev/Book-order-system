@@ -1,0 +1,87 @@
+﻿<Properties StartupConfiguration="{0DF9C5BE-E604-4F19-A184-5354601FB046}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Norboev_Asilbek_HW5/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="Norboev_Asilbek_HW5/Controllers/AccountController.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Norboev_Asilbek_HW5/Controllers/RoleAdminController.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Controllers/SeedController.cs" />
+      <File FileName="Norboev_Asilbek_HW5/DAL/AppDbContext.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Models/ViewModels/AccountViewModels.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Models/ViewModels/RoleViewModels.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Models/AppUser.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Seeding/SeedRoles.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Seeding/SeedUsers.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Utilities/AddUser.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Views/_ViewStart.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/_ViewImports.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Program.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Models/OrderDetail.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Models/Product.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Models/Supplier.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Migrations/20231030223330_Setup.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Controllers/ProductsController.cs" Line="143" Column="22" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Shared/_Layout.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Controllers/SuppliersController.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Products/Index.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Products/Details.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Suppliers/Index.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Products/Create.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Suppliers/Edit.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Products/Edit.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Suppliers/Create.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Suppliers/Details.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Orders/Index.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Utilities/GenerateNextOrderNumber.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Orders/Details.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Models/Order.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Controllers/OrdersController.cs" Line="32" Column="30" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Orders/Create.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Controllers/OrderDetailsController.cs" />
+      <File FileName="Norboev_Asilbek_HW5/Views/OrderDetails/Create.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/OrderDetails/Delete.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Home/Index.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Orders/Edit.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/OrderDetails/Edit.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/OrderDetails/Index.cshtml" />
+      <File FileName="Norboev_Asilbek_HW5/Views/Account/Register.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Norboev_Asilbek_HW5" expanded="True">
+            <Node name="Norboev_Asilbek_HW5" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductsController.cs" selected="True" />
+              </Node>
+              <Node name="DAL" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Seeding" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="OrderDetails" expanded="True" />
+                <Node name="Orders" expanded="True" />
+                <Node name="Products" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Norboev__Asilbek__HW5 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

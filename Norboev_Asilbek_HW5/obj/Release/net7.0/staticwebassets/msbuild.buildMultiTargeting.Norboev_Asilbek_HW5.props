@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Norboev_Asilbek_HW5.props" />
+</Project>
